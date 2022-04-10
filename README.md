@@ -114,7 +114,7 @@ cv2.destroyAllWindows()
 
 ### i) Write the frame as JPG image
 </br>
-![WIN_20210923_13_55_14_Pro](https://user-images.githubusercontent.com/93978702/162616953-7c7b8e06-7a1d-415b-8afc-9452eebe1a60.jpg)
+![image](https://user-images.githubusercontent.com/93978702/162616953-7c7b8e06-7a1d-415b-8afc-9452eebe1a60.jpg)
 
 
 </br>
@@ -123,7 +123,7 @@ cv2.destroyAllWindows()
 ### ii) Display the video
 </br>
 
-![WIN_20210923_13_55_14_Pro](https://user-images.githubusercontent.com/93978702/162616965-1a112bdd-49f7-450d-9095-9c24f416d69b.jpg)
+![image](https://user-images.githubusercontent.com/93978702/162616965-1a112bdd-49f7-450d-9095-9c24f416d69b.jpg)
 
 
 </br>
