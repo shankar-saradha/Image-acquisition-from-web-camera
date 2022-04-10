@@ -109,7 +109,7 @@ while True:
 cap.release()
 cv2.destroyAllWindows()
 ~~~ 
-
+```
 ## Output
 
 ### i) Write the frame as JPG image
